@@ -1,0 +1,35 @@
+header{
+    color:midnightblue;
+    background-color:burlywood;
+    margin:auto;
+    padding:0;
+    text-align:center;
+    font-size:20px;
+    width:300px;
+    height: 100;
+    font-style: initial;
+    
+
+}
+main{
+    color:black;
+    font-size:20px;
+    width:400px;
+    margin: 50px auto ;
+    padding:30px 30px 30px 0;
+    background-color: azure;
+    border: 5px solid black;
+}
+body{
+    background-color:lightblue;
+    padding: 0;
+    margin :0;
+    text-align: center;
+}
+h3{
+    margin-top: 40px;
+    color: black;
+}
+a{
+    text-transform: uppercase;
+}
